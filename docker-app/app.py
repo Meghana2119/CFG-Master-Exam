@@ -24,7 +24,7 @@ def hello():
         </style>
         <body>
             <h1>Hosting Docker App with AWS - CFG TEST</h1>
-            <p>Student: "YOUR NAME", "YOUR SURNAME"</p>
+            <p>Student: Meghana Nikam</p>
         </body>
     </html>
     """
